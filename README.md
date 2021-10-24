@@ -1,3 +1,3 @@
 # fw_labs
-fancyword labs 
-"\n" i wasnt alive during wk 10/18 lol
+fancyword labs\ 
+i wasnt alive during wk 10/18 lol
